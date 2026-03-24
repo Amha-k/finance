@@ -19,3 +19,4 @@ public class PayGradeDto extends BaseResponse {
     private Integer salaryStep;
     private String description;
 }
+ 

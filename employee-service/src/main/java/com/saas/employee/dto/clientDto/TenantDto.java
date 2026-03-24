@@ -25,3 +25,4 @@ public class TenantDto {
     private String createdBy;
     private String updatedBy;
 }
+ 
